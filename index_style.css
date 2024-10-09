@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    color: black;
+}
+
+#nordicCont {
+    text-align: center;
+}
+
+#nordic {
+    opacity: 0;
+    transition: opacity 0.5s ease   
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+}
+
+li :hover {
+    color: red;
+}

@@ -1,0 +1,35 @@
+.c1 {
+    text-align: center;
+    color: darkgreen;
+    font-family:'Courier New', Courier, monospace;
+}
+
+#id1 {
+    font-size: 34px;
+}
+
+#img1 {
+    border-radius: 5px;
+}
+
+#id4 {
+    font-size: 21px;
+}
+
+li {
+    color: grey;
+    font-size: 19px;
+}
+
+#id7 {
+    font-size: 23px;
+}
+
+#id8 {
+    text-align: center;
+}
+
+#nordic {
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
